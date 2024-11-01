@@ -1,0 +1,47 @@
+.tagline_date 
+{
+  text-align: left;
+  color: #777;
+  font-size: 9px;
+  font-weight: bold;
+  margin: 10px 0px 0px 0px;
+  padding: 2px 0px 2px 0px;
+  border-bottom: solid 1px #ccc; 
+}
+
+.tagline_icon 
+{
+  line-height: 1px;
+  font-size: 1px;
+  float: left;
+  width: 16px;
+  padding: 4px 0px 0px; 
+}
+
+.tagline_icon img 
+{
+  width: 100%; 
+}
+
+.no_border .tagline_body 
+{
+    border-top: none; 
+}
+
+.title p
+{
+  width: 357px;
+  margin: 0px;
+  color: #333;
+  display: inline;
+  font-size: 12px;
+  font-weight: normal; 
+}
+
+.title span 
+{
+  margin-left: 5px;
+  float: right; 
+  font-size: 9px;
+}
+
